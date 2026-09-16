@@ -13,7 +13,7 @@
             <span
               class="flex size-9 items-center justify-center rounded-lg bg-emerald-400 text-sm font-black text-black"
             >
-              N
+              B
             </span>
 
             <span class="text-sm font-semibold tracking-tight text-white">
