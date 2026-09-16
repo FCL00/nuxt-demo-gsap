@@ -17,7 +17,7 @@
             </span>
 
             <span class="text-sm font-semibold tracking-tight text-white">
-              NEXT<span class="text-emerald-400">.</span>
+              BUILDR<span class="text-emerald-400">.</span>
             </span>
           </NuxtLink>
 
